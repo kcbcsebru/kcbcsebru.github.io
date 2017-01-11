@@ -25,4 +25,3 @@ Tools:
 - Keras
 - Anaconda
 - Sublyme Tex
-
