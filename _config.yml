@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-url: "http://kootenpv.github.io"
+url: "http://kcbcsebru.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Pascal van Kooten
+title: Kazal Chandra Barman
 
 # Short description of your site
 description: Software enthusiast
@@ -37,12 +37,12 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Pascal van Kooten
-  email: "kootenpv@gmail.com"
-  github: kootenpv
-  linkedin: pub/pascal-van-kooten/53/a68/b80
-  stackoverflow: users/1575066/pascalvkooten
-  twitter: kootenpv
+  name: Kazal Chandra Barman
+  email: "kcb.brurcse42@gmail.com"
+  github: kazalbrur
+  linkedin: pub/kazalbrur/53/a68/b80
+  stackoverflow: users
+  twitter: Kcbkazal
 
 # Select which links to show in the footer
 footer-links-active:
@@ -61,7 +61,7 @@ footer-links-active:
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "kootenpvgithubio"
+disqus: "kcbcsebru"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-67532421-1"
