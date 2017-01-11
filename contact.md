@@ -1,11 +1,12 @@
 ---
 layout: minimal
-js: "/js/contact.js"
-css: "/css/contact.css"
+js: /js/contact.js
+css: /css/contact.css
 googlefonts: Lobster
+published: true
 ---
 
----------- Pascal: This page is now unused, it's just here for example material ------------
+---------- Kazal: This page is now unused, it's just here for example material ------------
 
 Just kidding, you can't contact me here.
 
