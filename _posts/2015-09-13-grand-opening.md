@@ -11,8 +11,10 @@ Mostly, this will be projects using Python, shared on [github](https://github.co
 
 Whenever there is a problem that took longer time to solve, I might blog about it to help others.
 
-``` python
-
-print("Welcome to my world !!")
-
+```ruby
+def function():
+    #indenting works just fine in the fenced code block
+    s = "Python syntax highlighting"
+    print s
 ```
+ 
