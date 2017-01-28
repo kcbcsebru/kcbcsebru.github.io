@@ -48,7 +48,7 @@ $ deactivate
 (venv)$ pip install --upgrade $TF_BINARY_URL
 ```
 
-এখন আমি  `import tensorflow` দিয়ে  virtual environment এ ` tensorflow `  ইমপোর্ট করতে সক্ষম হয়েছি । 
+এখনে আমি  `import tensorflow` দিয়ে  virtual environment এ ` tensorflow ` ইমপোর্ট করতে সক্ষম হয়েছি । 
 
 ### Keras
 
