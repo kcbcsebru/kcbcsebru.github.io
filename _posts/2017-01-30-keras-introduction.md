@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Keras:  ডিপ লার্নিং লাইব্রেরি
+title:  Keras  ডিপ লার্নিং লাইব্রেরি
 subtitle:
 published: true
 ---
